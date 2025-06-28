@@ -50,6 +50,14 @@ def register_page():
 
 def chat_page():
     st.set_page_config(page_title="🤖 AI Chatbot", layout="centered")
+    with st.sidebar:
+        st.write(f"👤 Logged in as {st.session_state.email}")
+        if st.button("Logout"):
+            # Clear session state
+            st.session_state.logged_in = False
+            st.session_state.email = ""
+            st.session_state.messages = []  # Optional: clear local message cache
+            st.rerun()
     st.title("🤖 AI Chatbot")
 
     # Load chat history from MongoDB

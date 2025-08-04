@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Laptop",
+    "description": "High-performance laptop with 16GB RAM"
+  },
+  {
+    "name": "Smartphone",
+    "description": "Latest model with advanced camera features"
+  },
+  {
+    "name": "Headphones",
+    "description": "Noise-cancelling over-ear headphones"
+  },
+  {
+    "name": "Tablet",
+    "description": "Lightweight tablet with long battery life"
+  },
+  {
+    "name": "Monitor",
+    "description": "4K Ultra HD monitor with HDR support"
+  },
+  {
+    "name": "Keyboard",
+    "description": "Mechanical keyboard with RGB lighting"
+  },
+  {
+    "name": "Mouse",
+    "description": "Wireless ergonomic mouse with adjustable DPI"
+  },
+  {
+    "name": "Speaker",
+    "description": "Bluetooth-enabled portable speaker"
+  },
+  {
+    "name": "Camera",
+    "description": "DSLR camera with 24MP resolution"
+  },
+  {
+    "name": "Tripod",
+    "description": "Adjustable tripod for cameras and phones"
+  },
+  {
+    "name": "Router",
+    "description": "Dual-band Wi-Fi router with gigabit Ethernet"
+  },
+  {
+    "name": "USB Drive",
+    "description": "32GB USB flash drive"
+  },
+  {
+    "name": "Power Bank",
+    "description": "10000mAh power bank with fast charging"
+  },
+  {
+    "name": "Charger",
+    "description": "Fast wall charger with USB-C port"
+  },
+  {
+    "name": "Earbuds",
+    "description": "Wireless Bluetooth earbuds with mic"
+  },
+  {
+    "name": "Printer",
+    "description": "All-in-one color printer with scanner"
+  },
+  {
+    "name": "Desk Lamp",
+    "description": "Adjustable LED desk lamp"
+  },
+  {
+    "name": "Notebook",
+    "description": "Hardcover notebook with 100 pages"
+  },
+  {
+    "name": "Pen",
+    "description": "Gel pen with smooth ink flow"
+  },
+  {
+    "name": "Backpack",
+    "description": "Waterproof backpack with multiple compartments"
+  },
+  {
+    "name": "Watch",
+    "description": "Digital smartwatch with fitness tracking"
+  },
+  {
+    "name": "Wallet",
+    "description": "Leather wallet with multiple card slots"
+  },
+  {
+    "name": "Bag",
+    "description": "Tote bag made from recycled materials"
+  },
+  {
+    "name": "Stapler",
+    "description": "Heavy-duty desktop stapler"
+  },
+  {
+    "name": "Scissors",
+    "description": "Ergonomic office scissors"
+  },
+  {
+    "name": "Folder",
+    "description": "Plastic folder for organizing documents"
+  },
+  {
+    "name": "Binder",
+    "description": "Ring binder with pockets"
+  },
+  {
+    "name": "Markers",
+    "description": "Set of 10 permanent markers"
+  },
+  {
+    "name": "Highlighters",
+    "description": "Pack of 5 fluorescent highlighters"
+  },
+  {
+    "name": "Eraser",
+    "description": "Soft rubber eraser for pencils"
+  },
+  {
+    "name": "Pencil",
+    "description": "HB graphite pencil"
+  },
+  {
+    "name": "Ruler",
+    "description": "Plastic 12-inch ruler"
+  },
+  {
+    "name": "Calculator",
+    "description": "Scientific calculator with solar power"
+  },
+  {
+    "name": "Mouse Pad",
+    "description": "Large gaming mouse pad"
+  },
+  {
+    "name": "Webcam",
+    "description": "HD webcam with built-in microphone"
+  },
+  {
+    "name": "Microphone",
+    "description": "Condenser microphone for recording"
+  },
+  {
+    "name": "Speaker Stand",
+    "description": "Adjustable stand for studio monitors"
+  },
+  {
+    "name": "Cable Organizer",
+    "description": "Cable management clips and ties"
+  },
+  {
+    "name": "Cooling Pad",
+    "description": "Laptop cooling pad with fans"
+  },
+  {
+    "name": "HDMI Cable",
+    "description": "6-foot HDMI cable for high-speed video"
+  },
+  {
+    "name": "Ethernet Cable",
+    "description": "Cat6 Ethernet cable for networking"
+  },
+  {
+    "name": "Extension Cord",
+    "description": "10-foot heavy-duty extension cord"
+  },
+  {
+    "name": "Surge Protector",
+    "description": "6-outlet surge protector with USB ports"
+  },
+  {
+    "name": "Battery",
+    "description": "AA Rechargeable batteries (8-pack)"
+  },
+  {
+    "name": "Flashlight",
+    "description": "LED flashlight with adjustable focus"
+  },
+  {
+    "name": "Thermometer",
+    "description": "Digital room thermometer"
+  },
+  {
+    "name": "Clock",
+    "description": "Wall clock with silent movement"
+  },
+  {
+    "name": "Calendar",
+    "description": "Monthly planner wall calendar"
+  },
+  {
+    "name": "Poster",
+    "description": "Motivational poster for office decoration"
+  },
+  {
+    "name": "Desk Organizer",
+    "description": "Multi-compartment desk organizer"
+  }
+]
